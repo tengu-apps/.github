@@ -10,7 +10,6 @@ git push tengu main
 
 | Repo | Description |
 |------|-------------|
-| [tengu](https://github.com/tengu-apps/tengu) | PaaS server |
 | [tengu-init](https://github.com/tengu-apps/tengu-init) | Server provisioning via SSH |
 | [tengu-caddy](https://github.com/tengu-apps/tengu-caddy) | Caddy with Cloudflare DNS plugin |
 | [tengu-deb](https://github.com/tengu-apps/tengu-deb) | Debian packages |
