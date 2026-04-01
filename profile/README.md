@@ -25,3 +25,5 @@ tengu-init user@server
 ## Links
 
 - [tengu.to](https://tengu.to) — Website
+
+> **DISCLAIMER:** *Very, very, very* alpha, unstable SDK and API.
